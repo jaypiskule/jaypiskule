@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jaypiskule
 - 👀 I’m interested in open-source collaboration!
 - 🌱 I’m currently learning analytics.
-- 💞️ I’m looking to collaborate on various prjects
-- 📫 How to reach me : Linkedin @ JasonPiskule
+- 💞️ I’m looking to collaborate on various projects.
+- 📫 How to reach me: Linkedin @ JasonPiskule
 - ⚡ Fun fact: I love to snow ski!
 
 <!---
